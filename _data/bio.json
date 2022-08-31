@@ -17,8 +17,9 @@
   },
   "interests": [
     { "name": "Computer Engineering" },
-    { "name": "Cybersecurity" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Electrical Engineering" },
+    { "name": "Cybersecurity" }
   ],
   "skills": [
     {
