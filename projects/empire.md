@@ -8,7 +8,7 @@ published: true
 labels:
   - Object Oriented Programming
   - C++
-summary: "A final lab that covered everything we learned involving pointers, binary search trees, and tree traversal."
+summary: "A lab that covered everything we learned involving pointers, binary search trees, and tree traversal."
 ---
 
 <div class="text-center p-4">
