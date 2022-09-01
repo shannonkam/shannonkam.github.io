@@ -11,13 +11,13 @@ labels:
   - Learning
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/Javascript/javascriptlogo.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/javascript/javascriptlogo.png">
 
 ## Learning JavaScript
 
 C and C++ were the first two programming languages that I got familiar with. They have been my primary languages for the past three years. Though now, with the help of freeCodeCamp and codecademy, I am working on adding another language to my arsenal: JavaScript. So far I’ve only covered the basics, but I find the language to be very easy to learn and use. It also probably helps that many of the concepts I learned in C and C++ are easily adapted to JavaScript. In addition, it is also more convenient and user friendly than the other languages I’ve been using.
 
-<img width="250px" class="rounded float-start pe-4" src="../img/Javascript/brainexercise.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/javascript/brainexercise.jpg">
 
 ## Athletic Software Engineering
 
