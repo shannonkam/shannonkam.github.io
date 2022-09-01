@@ -16,5 +16,4 @@ summary: "A design project that focuses on researching and developing drone tech
 
 The mission of this project is to create an autonomous 
 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+[Summary Video](https://youtu.be/oxSvIZsWEM8)
