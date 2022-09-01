@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhdt/uhdtuav.png
+image: img/uhdt/uav.png
 title: "UH Drone Technologies"
 date: 2019-2021
 published: true
