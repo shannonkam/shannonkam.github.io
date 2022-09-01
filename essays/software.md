@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Would you like to Buy my (Soft)wares"
+title: "Would You Like to Buy My (Soft)Wares"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-01
 published: true
