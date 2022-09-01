@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/client/pic.png
+image: img/client/model.png
 title: "Client-Server"
 date: 2021
 published: true
