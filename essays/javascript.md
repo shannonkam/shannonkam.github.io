@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript is my New Favorite Language"
+title: "JavaScript is My New Favorite Language"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
 published: true
