@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/empire/cat.jpg
+image: img/empire/crown.webp
 title: "Cat Empire"
 date: 2021
 published: true
@@ -35,4 +35,4 @@ byte ADCRead(byte ch)
 }
 ```
 
-[Summary Video](https://www.youtube.com/watch?v=oxSvIZsWEM8&feature=youtu.be)
+[Code](https://gitlab.com/skam7/ee205-lab09-cat-empire.git)
