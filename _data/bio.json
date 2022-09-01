@@ -21,12 +21,12 @@
   ],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": [ "C", "C++", "Javascript" ]
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "Python", "Verilog HDL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Excel", "Word", "MATLAB" ]
     }
   ],
   "education": [
@@ -42,31 +42,29 @@
   ],
   "work": [
     {
+      "company": "UH College of Engineering",
+      "position": "Grader",
+      "website": "",
+      "startDate": "August 2022",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Manage and evaluate assignments from students"
+      ]
+    },
+    {
       "company": "Hawaii Independent Physician Association",
       "position": "Data Entry Clerk",
       "website": "",
       "startDate": "July 2018",
-      "endDate": "Aug. 2018",
+      "endDate": "August 2018",
       "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH College of Engineering",
-      "position": "Grader",
-      "website": "",
-      "startDate": "2022-08-16",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Update, confirm, and input information on the registered physicians in the company's database"
       ]
     }
   ],
-  "volunteer": [
+ /*"volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -92,7 +90,7 @@
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
-  ],
+  ],*/
   "awards": [
     {
       "title": "B+ Scholarship",
