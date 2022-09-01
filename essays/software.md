@@ -10,11 +10,13 @@ labels:
   - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/software/stem.jpg">
 
 ## Deciding my Major
 
 Growing up, my favorite subject in school has always been math. I loved it because it didn’t involve memorizing dates or looking for elements in a periodic table. Since then, my love for math only continued to grow. My interest in technology has always been there, from playing games on the Nintendo Wii to watching YouTube videos for fun. Thus, combining my love for both math and technology, I decided to major in computer engineering.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/software/danger.jpg">
 
 ## *Chuckles* I'm in Danger
 
