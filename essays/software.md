@@ -16,7 +16,7 @@ labels:
 
 Growing up, my favorite subject in school has always been math. I loved it because it didn’t involve memorizing dates or looking for elements in a periodic table. Since then, my love for math only continued to grow. My interest in technology has always been there, from playing games on the Nintendo Wii to watching YouTube videos for fun. Thus, combining my love for both math and technology, I decided to major in computer engineering.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/software/danger.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/software/danger.jfif">
 
 ## *Chuckles* I'm in Danger
 
