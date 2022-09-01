@@ -16,9 +16,9 @@ labels:
 
 C and C++ were the first two programming languages that I got familiar with. They have been my primary languages for the past three years. Though now, with the help of freeCodeCamp and codecademy, I am working on adding another language to my arsenal: JavaScript. So far I’ve only covered the basics, but I find the language to be very easy to learn and use. It also probably helps that many of the concepts I learned in C and C++ are easily adapted to JavaScript. In addition, it is also more convenient and user friendly than the other languages I’ve been using.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Javascript/brainexercise.jpg">
-
 ## Athletic Software Engineering
+
+<img width="250px" class="rounded float-start pe-4" src="../img/Javascript/brainexercise.jpg">
 
 A new technique I’m using to learn this language is athletic software engineering. This approach is intense and time-constrained. It revolves around repetition and promotes critical thinking. To strengthen a skill, you must continuously exercise and flex that skill, otherwise you’ll get rusty. Though the learning style stresses me out at times, I find it to be enjoyable and believe that it will help me become competent with JavaScript.
 
