@@ -12,7 +12,9 @@ labels:
 summary: "A design project that focuses on researching and developing drone technologies."
 ---
 
-<img class="img-fluid" src="../img/uhdt/uhdtlogo.png">
+<div class="text-center p-4">
+  <img class="img-fluid" src="../img/uhdt/uhdtlogo.png">
+</div>
 
 The mission of this project is to have an unmanned aerial vehicle fly autonomously while identifying targets on the ground. Once it finds the correct target, it releases an unmanned ground vehicle to deliver a payload to that target. The team consists of mechanical, electrical, and computer engineers. The goal is to compete in the Annual Student Unmanned Aerial Systems Competition (SUAS). 
 
