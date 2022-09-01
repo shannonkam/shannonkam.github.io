@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "University of Hawaii Drone Technologies"
+image: img/uhdt/uhdtuav.png
+title: "UH Drone Technologies"
 date: 2019-2021
 published: true
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: "A design project that focuses on researching and developing drone technologies."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/uhdt/uhdtlogo.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
