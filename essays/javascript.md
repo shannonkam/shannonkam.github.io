@@ -6,6 +6,7 @@ title: "JavaScript is my New Favorite Language"
 date: 2022-08-31
 published: true
 labels:
+  - Software Engineering
   - JavaScript
   - Learning
 ---
