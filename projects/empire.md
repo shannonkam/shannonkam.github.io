@@ -11,10 +11,8 @@ labels:
 summary: "A lab that covered everything we learned involving pointers, binary search trees, and tree traversal."
 ---
 
-<div class="text-center p-4">
-  <img width="400px" src="../img/empire/familytree.png" class="img-thumbnail" >
-  <img width="300px" src="../img/empire/catbegat.png" class="img-thumbnail" >
-</div>
+<img width="350px" src="../img/empire/familytree.png" class="img-thumbnail" >
+<img width="300px" src="../img/empire/catbegat.png" class="img-thumbnail" >
 
 For this project, we needed to create and display a list of cats in multiple ways. Collection classes are containers for objects. Data structures that underpin the container determine how well it will scale and how long it will take to perform certain functions. For this reason, we used two classes to create the cat empire. The first class included all the data, keys, and structure for each cat. The second class managed the data in a binary search tree that holds all the cats. 
 
