@@ -21,11 +21,15 @@ Nobody knows everything, but everybody knows something. For this reason, it is i
 
 Here I’ll be using Stack Overflow posts as examples. In this instance, the user was precise and informative about their problem. The subject header was a clear description of the problem. The format is easy to read and it is obvious that the user did their homework in the third paragraph by mentioning a separate post by another user that could’ve been related back to their own. As a result, the expert responding to this question gave a very detailed answer, essentially making a tutorial for the original poster. This question also appears to be very popular in the community, as it has been viewed 1.8 million times. It also has been bookmarked a thousand times and has almost three thousand upvotes. 
 
+Here is a link to the [post](https://stackoverflow.com/questions/24319662/from-inside-of-a-docker-container-how-do-i-connect-to-the-localhost-of-the-mach/24326540#24326540).
+
 <img width="200px" class="rounded float-start pe-4" src="../img/smart/danger.jfif">
 
 ## "Not so Smart" Question
 
 	In another instance, the user used the subject header to indicate that the problem was their homework in 2015, not a good way to get the experts’ attention. In addition, the problem is asking to modify a program created in a previous week, but the user didn’t include the program in their post. Also, the question has since been closed by an experienced user or moderator as it needs to be more focused. Luckily for this user, before the post got closed, an expert was kind enough to give the user a hint as to how to solve this problem. All in all, a very “not so smart” question. Despite this question having been asked over seven years ago, it has only been viewed 136 times. The question itself has seven downvotes. The original post also has comments below it critiquing the question. One such comment believed that the question was posted by a bot. 
+
+Here is a link to the [post](https://stackoverflow.com/questions/28268414/java-programming-homework-2015).
 
 ## In Conclusion
 
