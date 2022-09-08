@@ -15,7 +15,9 @@ labels:
 
 Nobody knows everything, but everybody knows something. For this reason, it is important for software engineers to be able to ask questions effectively. Communication is one of the most important skills to develop. To ask a question the “smart way” could be the difference between getting a quick definitive answer and being left on read. Before asking a technical question via email or forum, make sure you’ve already exhausted your other resources. These resources include searching archives of forums, reading the manual, asking a friend, and searching the Web. This ensures that you aren’t wasting people’s time. If you still haven’t found anything, it is time to choose where to ask your question. Whether you decide on asking your question via email, forum, or mailing list, make sure it is in a place where it will not be ignored. Then, once you’ve decided on the method, make sure you ask a “smart” question.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/smart/smartq.png">
+<div class="text-center p-4">
+  <img class="img-fluid" src="../img/smart/smartq.png">
+</div>
 
 ## "Smart" Question
 
