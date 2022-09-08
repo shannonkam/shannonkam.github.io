@@ -27,7 +27,10 @@ Here I’ll be using Stack Overflow posts as examples. In this instance, the use
 
 Here is a link to the [post](https://stackoverflow.com/questions/24319662/from-inside-of-a-docker-container-how-do-i-connect-to-the-localhost-of-the-mach/24326540#24326540).
 
-<img width="200px" class="rounded float-start pe-4" src="../img/smart/notsmartq2.png">
+<div class="text-center p-4">
+  <img width="500px" img class="img-fluid" src="../img/smart/notsmartq2.png">
+  <img width="500px" img class="img-fluid" src="../img/smart/notsmartq2comments.png">
+</div>
 
 ## "Not so Smart" Question
 
