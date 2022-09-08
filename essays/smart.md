@@ -31,5 +31,5 @@ In another instance, the user used the subject header to indicate that the probl
 
 Here is a link to the [post](https://stackoverflow.com/questions/28268414/java-programming-homework-2015).
 
-## In Conclusion
+## Conclusion
 
