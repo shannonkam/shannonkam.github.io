@@ -29,7 +29,7 @@ Here is a link to the [post](https://stackoverflow.com/questions/24319662/from-i
 
 <div class="text-center p-4">
   <img width="500px" img class="img-fluid" src="../img/smart/notsmartq2.png">
-  <img width="500px" img class="img-fluid" src="../img/smart/notsmartq2comments.png">
+  <img width="530px" img class="img-fluid" src="../img/smart/notsmartq2comments.png">
 </div>
 
 ## "Not so Smart" Question
