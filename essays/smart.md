@@ -34,7 +34,7 @@ In another instance, the user used the subject header to indicate that the probl
 Here is a link to the [post](https://stackoverflow.com/questions/28268414/java-programming-homework-2015).
 
 <div class="text-center p-4">
-  <img width="500px" img class="img-fluid" src="../img/smart/notsmartq2.png">
+  <img width="530px" img class="img-fluid" src="../img/smart/notsmartq2.png">
   <img width="530px" img class="img-fluid" src="../img/smart/notsmartq2comments.png">
 </div>
 
