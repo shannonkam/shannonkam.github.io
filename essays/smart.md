@@ -1,0 +1,31 @@
+---
+layout: essay
+type: essay
+title: "Smart Question, Smarter Engineer"
+# All dates must be YYYY-MM-DD format!
+date: 2022-09-08
+published: true
+labels:
+  - Software Engineering
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/smart/stem.jpg">
+
+## Importance of Asking Questions
+
+Nobody knows everything, but everybody knows something. For this reason, it is important for software engineers to be able to ask questions effectively. Communication is one of the most important skills to develop. To ask a question the “smart way” could be the difference between getting a quick definitive answer and being left on read. Before asking a technical question via email or forum, make sure you’ve already exhausted your other resources. These resources include searching archives of forums, reading the manual, asking a friend, and searching the Web. This ensures that you aren’t wasting people’s time. If you still haven’t found anything, it is time to choose where to ask your question. Whether you decide on asking your question via email, forum, or mailing list, make sure it is in a place where it will not be ignored. Then, once you’ve decided on the method, make sure you ask a “smart” question.
+
+<img width="200px" class="rounded float-start pe-4" src="../img/smart/danger.jfif">
+
+## "Smart" Question
+
+Here I’ll be using Stack Overflow posts as examples. In this instance, the user was precise and informative about their problem. The subject header was a clear description of the problem. The format is easy to read and it is obvious that the user did their homework in the third paragraph by mentioning a separate post by another user that could’ve been related back to their own. As a result, the expert responding to this question gave a very detailed answer, essentially making a tutorial for the original poster. This question also appears to be very popular in the community, as it has been viewed 1.8 million times. It also has been bookmarked a thousand times and has almost three thousand upvotes. 
+
+<img width="200px" class="rounded float-start pe-4" src="../img/smart/danger.jfif">
+
+## "Not so Smart" Question
+
+In another instance, the user used the subject header to indicate that the problem was their homework in 2015, not a good way to get the experts’ attention. In addition, the problem is asking to modify a program created in a previous week, but the user didn’t include the program in their post. Also, the question has since been closed by an experienced user or moderator as it needs to be more focused. All in all, a very “not so smart” question. Despite this question having been asked over seven years ago, it has only been viewed 136 times. The question itself has seven downvotes. The original post also has comments below it critiquing the question. One such comment believed that the question was posted by a bot.
+
+## In Conclusion
+
