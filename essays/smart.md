@@ -33,3 +33,4 @@ Here is a link to the [post](https://stackoverflow.com/questions/28268414/java-p
 
 ## Conclusion
 
+By asking these questions, whether it be on a forum or through email, we are relying on others to take time out of their busy schedules to answer our questions. For this reason, these experts usually need to filter through these questions ruthlessly. As a result, you may get ignored if your question isn’t up to par. Thus, if you have a question, make sure it’s a smart one. By asking a question the “smart way”, you increase your likelihood of getting a swift, helpful response.
