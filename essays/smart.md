@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="550px" img class="img-fluid" src="../img/smart/starchmasks.png">
+  <img width="570px" img class="img-fluid" src="../img/smart/starch.png">
 </div>
   
 ## Importance of Asking Questions
