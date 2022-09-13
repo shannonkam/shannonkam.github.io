@@ -7,6 +7,7 @@ date: 2022-09-08
 published: true
 labels:
   - Software Engineering
+  - Learning
 ---
 
 <div class="text-center p-4">
