@@ -12,20 +12,22 @@ labels:
   - ESLint
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/standards/god.jpg">
+<div class="text-center p-4">
+  <img width="300px" img class="img-fluid" src="../img/standards/god.jpg">
+</div>
 
-## Keeping it Clean
+## Keep it Clean
 
-
+Words :)
 
 <img width="200px" class="rounded float-start pe-4" src="../img/standards/clean.jfif">
 
 ## ESLint
 
-
+More words
 
 ## Conclusion
 
-
+Even more words
 
 <img width="200px" class="rounded float-start pe-4" src="../img/standards/success.jpeg">
