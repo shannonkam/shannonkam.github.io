@@ -20,7 +20,7 @@ labels:
 
 Words :)
 
-<img width="200px" class="rounded float-start pe-4" src="../img/standards/clean.jfif">
+<img width="300px" class="rounded float-start pe-4" src="../img/standards/clean.jfif">
 
 ## ESLint
 
@@ -30,4 +30,4 @@ More words
 
 Even more words
 
-<img width="200px" class="rounded float-start pe-4" src="../img/standards/success.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/standards/success.jpeg">
