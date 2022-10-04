@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI Frameworks (Change title later)"
+title: "Web Design is My Passion"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-03
 published: true
