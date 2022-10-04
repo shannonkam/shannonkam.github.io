@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Errors, Errors Everywhere"
+title: "UI Frameworks (Change title later)"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-03
 published: true
@@ -30,10 +30,8 @@ labels:
 
 <div class="text-center p-4">
     <img width="300px" img class="img-fluid" src="../img/ui-frameworks/pikachu.png">
+</div>
 
 ## Conclusion
 
 
-
-<div class="text-center p-4">
-    <img width="300px" img class="img-fluid" src="../img/standards/success.jpeg">
