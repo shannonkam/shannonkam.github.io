@@ -38,14 +38,15 @@ labels:
 
 ### Website 1: HTML + CSS
 <div class="text-center p-4">
-    <img width="400px" img class="img-fluid" src="../img/ui-frameworks/HTML+CSS.png">
+    <img width="600px" img class="img-fluid" src="../img/ui-frameworks/HTML+CSS.png">
 </div>
 
 ### Website 2: Bootstrap 5
 <div class="text-center p-4">
-    <img width="400px" img class="img-fluid" src="../img/ui-frameworks/Bootstrap.png">
+    <img width="600px" img class="img-fluid" src="../img/ui-frameworks/Bootstrap.png">
 </div>
 
 ## Recreating BoxLunch.com
-
-
+<div class="text-center p-4">
+    <img width="600px" img class="img-fluid" src="../img/ui-frameworks/replica-site.png.png">
+</div>
