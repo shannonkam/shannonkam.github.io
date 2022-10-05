@@ -33,7 +33,7 @@ labels:
 
 
 <div class="text-center p-4">
-    <img width="400px" img class="img-fluid" src="../img/ui-frameworks/pikachu.png">
+    <img width="250px" img class="img-fluid" src="../img/ui-frameworks/pikachu.png">
 </div>
 
 ### Website 1: HTML + CSS
@@ -48,5 +48,5 @@ labels:
 
 ## Recreating BoxLunch.com
 <div class="text-center p-4">
-    <img width="600px" img class="img-fluid" src="../img/ui-frameworks/replica-site.png.png">
+    <img width="600px" img class="img-fluid" src="../img/ui-frameworks/replica-site.png">
 </div>
