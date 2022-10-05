@@ -13,15 +13,19 @@ labels:
 ---
 
 <div class="text-center p-4">
-  <img width="300px" img class="img-fluid" src="../img/ui-frameworks/osborn.jpg">
+  <img width="500px" img class="img-fluid" src="../img/ui-frameworks/osborn.jpg">
 </div>
 
-## Bootstrap 5
+## What is a UI Framework?
+
+
+
+## Learning Bootstrap 
 
 
 
 <div class="text-center p-4">
-    <img width="300px" img class="img-fluid" src="../img/ui-frameworks/bhc.jpg">
+    <img width="400px" img class="img-fluid" src="../img/ui-frameworks/bhc.jpg">
 </div>
 
 ## Why Not Use HTML and CSS?
@@ -29,9 +33,19 @@ labels:
 
 
 <div class="text-center p-4">
-    <img width="300px" img class="img-fluid" src="../img/ui-frameworks/pikachu.png">
+    <img width="400px" img class="img-fluid" src="../img/ui-frameworks/pikachu.png">
 </div>
 
-## Conclusion
+### Website 1: HTML + CSS
+<div class="text-center p-4">
+    <img width="400px" img class="img-fluid" src="../img/ui-frameworks/HTML+CSS.png">
+</div>
+
+### Website 2: Bootstrap 5
+<div class="text-center p-4">
+    <img width="400px" img class="img-fluid" src="../img/ui-frameworks/Bootstrap.png">
+</div>
+
+## Recreating BoxLunch.com
 
 
