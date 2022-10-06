@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Web Design is My Passion"
 # All dates must be YYYY-MM-DD format!
-date: 2022-10-03
+date: 2022-10-06
 published: true
 labels:
 - Software Engineering
