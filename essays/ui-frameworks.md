@@ -26,11 +26,11 @@ I am currently learning how to use Bootstrap 5. Bootstrap is a powerful, extensi
 
 ## Why Not Use HTML and CSS?
 
-Raw HTML and CSS are very limited in what it can accomplish. It takes a lot of time and effort to create a decent looking website without a UI framework. Below are two websites: one only uses HTML and CSS, the other uses Bootstrap 5.
-
 <div class="text-center p-4">
     <img width="280px" img class="img-fluid" src="../img/ui-frameworks/pikachu.png">
 </div>
+
+Raw HTML and CSS are very limited in what it can accomplish. It takes a lot of time and effort to create a decent looking website without a UI framework. Below are two websites: one only uses HTML and CSS, the other uses Bootstrap 5.
 
 ### Website 1: HTML + CSS
 <div class="text-center p-4">
