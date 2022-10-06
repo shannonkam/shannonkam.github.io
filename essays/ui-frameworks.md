@@ -14,7 +14,7 @@ labels:
 
 ## What is a UI Framework?
 
-UI frameworks help to build multi-device applications without requiring the user to have immense technical knowledge. Using these frameworks saves developers from having to build apps completely from scratch. They contain pre-built components that help create good-looking and responsive layouts. These frameworks are very user-friendly, allowing anyone to start creating a website with minimal knowledge.
+UI frameworks help to build multi-device applications without requiring the user to have immense technical knowledge. Using these frameworks save developers from having to build apps completely from scratch. They contain pre-built components that help create good-looking and responsive layouts. These frameworks are very user-friendly, allowing anyone to start creating a website with minimal knowledge.
 
 ## Learning Bootstrap 
 
@@ -30,7 +30,7 @@ I am currently learning how to use Bootstrap 5. Bootstrap is a powerful, extensi
     <img width="280px" img class="img-fluid" src="../img/ui-frameworks/pikachu.png">
 </div>
 
-Raw HTML and CSS are very limited in what it can accomplish. It takes a lot of time and effort to create a decent looking website without a UI framework. Below are two websites: one only uses HTML and CSS, the other utilizes Bootstrap 5.
+Raw HTML and CSS are very limited in what they can accomplish. It takes a lot of time and effort to create a decent looking website without a UI framework. Below are two websites: one only uses HTML and CSS, the other utilizes Bootstrap 5.
 
 ### Website 1: HTML + CSS
 <div class="text-center p-4">
@@ -42,10 +42,10 @@ This website only uses HTML and CSS. HTML allows you to add content (e.g. text, 
 <div class="text-center p-4">
     <img width="650px" img class="img-fluid" src="../img/ui-frameworks/Bootstrap.png">
 </div>
-This website uses Bootstrap 5. In addition to looking better and including a navbar, it also helps simplify the HTML code and offers better performance using fewer lines of code. Overall, the design of this website is much nicer than Website 1. In addition, all the columns on this website adjust with the window size, so no one column is wider than another.
+This website uses Bootstrap 5. In addition to looking better and including a navbar, it also helps simplify the HTML code and offers better performance. Overall, the design of this website is much nicer than Website 1. All the columns on this website adjust with the window size, so no one column is wider than another.
 
 ## Recreating BoxLunch.com
 <div class="text-center p-4">
     <img width="700px" img class="img-fluid" src="../img/ui-frameworks/replica-site.png">
 </div>
-This is a mock website of [BoxLunch.com](https://www.boxlunch.com/) that I created using Bootstrap 5. While designing the website, I ran into quite a few problems, such as creating search bars, aligning text, and sizing icons. It was hard to remember which classes did what, so I had to keep clicking through tabs of documentation. Despite this, Bootstrap made my life so much easier and allowed me to make my website fairly similar to the original. This website was created after only a few days of exposure to Bootstrap 5. Overall, I see many benefits for using Bootstrap 5. It allows developers to create beautiful and responsive websites, while also being user-friendly.
+This is a mock website of [BoxLunch.com](https://www.boxlunch.com/) that I created using Bootstrap 5. While designing the website, I ran into quite a few problems, such as creating search bars, aligning text, and sizing icons. It was hard to remember which classes did what, so I had to keep clicking through tabs of documentation. Despite this, Bootstrap still made my life a whole lot easier, allowing me to make my website fairly similar to the original. This website was created after only a few days of exposure to Bootstrap 5. Overall, I see many benefits for using Bootstrap 5. It allows developers to create beautiful and responsive websites, while also being user-friendly.
