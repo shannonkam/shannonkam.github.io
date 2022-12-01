@@ -23,11 +23,15 @@ The final project for my software engineering class required us to create a work
 
 #### Observer Design Pattern
 
-This is a behavioral design pattern that defines how to notify objects of changes to other object(s). The pattern consists of two actors: the observer (interested in the updates) and the subject (generates the updates). In the case of our project, this was through the use of subscribers and publishers, which took on the roles of observer and subject respectively. We could subscribe to publications that retrieved data from the MongoDB collections, these also updated the data whenever changes were made. For example, if a student wants to see the recipes available, we would publish the Recipe collection on the server side and then subscribe on the client side so the data can be displayed to the student.
+This is a behavioral design pattern that defines how to notify objects of changes to other object(s). The pattern consists of two actors: the observer (interested in the updates) and the subject (generates the updates).
+
+In the case of our project, this could be seen through the use of subscribers and publishers, which took on the roles of observer and subject respectively. We could subscribe to publications that retrieved data from the MongoDB collections, these also updated the data whenever changes were made. For example, if a student wants to see the recipes available, we would publish the Recipe collection on the server side and then subscribe on the client side so the data can be displayed to the student.
+
+This was also implemented through our use of reactive data. When a MongoDB collection is updated, the code referencing a cursor in that collection will be re-run.
 
 #### Singleton Design Pattern
 
-This is a creational design pattern that restricts object creation for a class to only one instance. In our project, one instance of this pattern comes in the form of recipe table components. Each recipe component is then exported to the Search Recipe page which lists out all the recipes in a table. 
+This is a creational design pattern that restricts object creation for a class to only one instance. In our project, this comes in the form of the single instances of our collections. For example, the variable “Ingredient” is the singleton instance of the IngredientCollection class.
 
 ## Design Patterns to the Rescue
 
