@@ -19,7 +19,7 @@ Design patterns are reusable solutions on how to solve a common problem when des
 
 ## Application of Design Patterns
 
-The final project for my software engineering class required us to create a working application using Meteor. We started with a basic meteor template and implemented our own changes from there. There were many design patterns that my group was able to make use of when designing our web application, [No More Ramen](https://no-more-ramen.github.io/).
+The final project for my software engineering class required us to create a working application using Meteor. We started with a basic meteor template and implemented our own changes from there. My group was able to make use of design patterns when designing our web application, [No More Ramen](https://no-more-ramen.github.io/).
 
 #### Observer Design Pattern
 
