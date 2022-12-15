@@ -31,6 +31,6 @@ Coding standards are a uniform format for software engineers to follow to create
 
 Agile project management is an iterative approach to software development projects. One style of agile project management is called issue driven project management, which involves breaking a project down into a sequence of milestones with each milestone containing a set of issues. These issues are then assigned to members of the project team. This concept ensures that the different aspects of a project are completed in a timely manner and done in a reasonable order. This is beneficial when working on big projects with many team members doing different things. This allows everyone to keep track of what’s being done and what they need to do next.
 
-## Conclusion
+## Going Forward
 
 Understanding how to apply these fundamental concepts to my code allows me to be a better software developer. It pushes me to create clean, efficient code. I know I will continue to use these concepts throughout my computer engineering career.
