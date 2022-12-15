@@ -7,8 +7,8 @@ date: 2022
 published: true
 labels:
   - JavaScript
-  - HTML
-  - CSS
+  - Bootstrap
+  - React
   - Meteor
 summary: "A website that allows students to find recipes and vendors to advertise their ingredients."
 ---
