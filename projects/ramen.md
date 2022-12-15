@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/no-more-ramen/ramen-logo.png
+image: img/no-more-ramen/ramen-cover.png
 title: "No More Ramen"
 date: 2022
 published: true
