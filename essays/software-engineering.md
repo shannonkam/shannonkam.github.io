@@ -21,7 +21,7 @@ In the following sections, I will be talking about some of the fundamental softw
 
 ### Development Environments
 
-Integrated Development Environments (IDEs) are software development tools that have advanced capabilities for manipulating source code. These environments are complicated to learn how to use and take time to master. However, once you are skilled with it, you can understand, correct, and improve large software systems faster. Some of the basic features that IDEs have are support for coding, support for testing, and support for refactoring. Support for coding means that it can navigate through the code and ‘quick fix’ facilities when you make a mistake. Support for testing means that you can setup and execute unit tests. Support for refactoring means that you can rename variables, methods, classes, and package names easily. For the past few months, I’ve been learning how to use IntelliJ IDEA. The autofill, error detection, and refactoring facilities made my life so much easier. This IDE allowed me to write code faster and more efficiently.
+Integrated Development Environments (IDEs) are software development tools that have advanced capabilities for manipulating source code. These environments are complicated to learn how to use and take time to master. However, once you are skilled with it, you can understand, correct, and improve large software systems faster. Some of the basic features that IDEs have are support for coding, support for testing, and support for refactoring. Support for coding means that it can navigate through the code and ‘quick fix’ facilities when you make a mistake. Support for testing means that you can set up and execute unit tests. Support for refactoring means that you can rename variables, methods, classes, and package names easily. For the past few months, I’ve been learning how to use IntelliJ IDEA. The autofill, error detection, and refactoring facilities made my life so much easier. This IDE allowed me to write code faster and more efficiently.
 
 ### Coding Standards
 
@@ -30,3 +30,7 @@ Coding standards are a uniform format for software engineers to follow to create
 ### Agile Project Management
 
 Agile project management is an iterative approach to software development projects. One style of agile project management is called issue driven project management, which involves breaking a project down into a sequence of milestones with each milestone containing a set of issues. These issues are then assigned to members of the project team. This concept ensures that the different aspects of a project are completed in a timely manner and done in a reasonable order. This is beneficial when working on big projects with many team members doing different things. This allows everyone to keep track of what’s being done and what they need to do next.
+
+## Conclusion
+
+Understanding how to apply these fundamental concepts to my code allows me to be a better software developer. It pushes me to create clean, efficient code. I know I will continue to use these concepts throughout my computer engineering career.
