@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Javascript", "Python", "Verilog HDL" ]
+      "keywords": [ "C", "C++", "Javascript", "HTML", "CSS", "React", "Bootstrap", "Meteor", "Python", "Verilog HDL" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Excel", "Word", "MATLAB" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Excel", "Word", "IntelliJ IDEA", "MATLAB" ]
     }
   ],
   "education": [
@@ -75,7 +75,7 @@
       "title": "Chancellor's Scholarship",
       "date": "2019-Present",
       "awarder": "University of Hawaii at Manoa",
-      "summary": ""
+      "summary": "Scholarships awarded based on exemplary academic, extracurricular and community achievements."
     },
     {
       "title": "B+ Scholarship",
