@@ -37,6 +37,10 @@
       "startDate": "2019-09-01",
       "endDate": "Present",
       "courses": [
+        "ICS 414 - Software Engineering II",
+        "ICS 321 - Database Systems I",
+        "EE 406 - Intro to Computer and Network Security",
+        "EE 496 - Capstone Design Project"
       ]
     }
   ],
