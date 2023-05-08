@@ -13,8 +13,6 @@ labels:
   - React
 ---
 
-## Almost There!
-
 As I approach the final week of my college journey, I’d like to reflect on one of the most challenging, yet rewarding, classes I’ve ever taken.
 
 ## Course Overview
