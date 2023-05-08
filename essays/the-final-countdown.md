@@ -27,7 +27,7 @@ Our goal was to create a reliable user-friendly website that meets all of their 
 
 ## Key Takeaways
 
-This course gave me the opportunity to enhance my front-end development skills. Previously, I had mainly used my coding skills to create one-off web pages following certain specifications. I also had used my skills in a two-month-long web development project. This class allowed me to exercise skills that I had previously attained and helped me acquire new ones. One such skill was utilizing “user stories” as a tool to figure out what web pages we needed to create and how they connected to each other.
+This course gave me the opportunity to enhance my front-end development skills. Previously, I had mainly used my coding skills to create one-off web pages following certain specifications. I also used my skills in a two-month-long web development project. This class allowed me to exercise skills that I had previously attained and helped me acquire new ones. One such skill was utilizing “user stories” as a tool to figure out what web pages we needed to create and how they connected to each other.
 
 I was also able to improve my project management skills. I learned how to organize customer feedback notes, set realistic deadlines, and coordinate effectively with my team. I gained experience in estimating how long it takes to accomplish certain tasks and gave me a better understanding of what it takes to manage a project successfully.
 
