@@ -1,0 +1,102 @@
+{
+  "basics": {
+    "name": "Shannon Kam",
+    "label": "Student",
+    "picture": "https://github.com/shannonkam.png",
+    "email": "skam7@hawaii.edu",
+    "phone": "808-971-1602",
+    "website": "https://shannonkam.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "shannonkam", "url": "https://github.com/shannonkam" },
+      { "network": "linkedin", "username": "Shannon Kam", "url": "https://www.linkedin.com/in/shannon-kam-468578239/" }
+    ]
+  },
+  "interests": [
+    { "name": "Computer Engineering" },
+    { "name": "Software Engineering" },
+    { "name": "Electrical Engineering" },
+    { "name": "Cybersecurity" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Javascript", "HTML", "CSS", "React", "Bootstrap", "Meteor", "Python", "Verilog HDL" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Excel", "Word", "IntelliJ IDEA", "MATLAB" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2023)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "courses": [
+        "ICS 414 - Software Engineering II",
+        "ICS 321 - Database Systems I",
+        "EE 406 - Intro to Computer and Network Security",
+        "EE 496 - Capstone Design Project"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "University of Hawaii Engineering Department",
+      "position": "Grader",
+      "website": "",
+      "startDate": "2022 August",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Manage and evaluate assignments from students"
+      ]
+    },
+    {
+      "company": "Hawaii Independent Physician Association",
+      "position": "Data Entry Clerk",
+      "website": "",
+      "startDate": "2018 July",
+      "endDate": "2018 Aug.",
+      "summary": "",
+      "highlights": [
+        "Update, confirm, and input information on the registered physicians in the company's database"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Pledge Master of IEEE-HKN Eta Kappa Nu (Delta Omega Chapter)",
+      "date": "2022-Present",
+      "awarder": "IEEE-HKN",
+      "summary": "HKN is a national honor society for electrical and computer engineers. Members are selected based on academics, character, and leadership skills."
+    },
+    {
+      "title": "Chancellor's Scholarship",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded based on exemplary academic, extracurricular and community achievements."
+    },
+    {
+      "title": "B+ Scholarship",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2019-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Earn a semester GPA of 3.5 or higher based on 12 credits or more."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
